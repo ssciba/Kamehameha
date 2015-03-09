@@ -10,7 +10,11 @@ namespace vjezba1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+
             Console.WriteLine("a dici World");
+
+            Console.WriteLine("Sućidar");
+
         }
     }
 }
